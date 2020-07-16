@@ -1,0 +1,26 @@
+{
+  "//1": "Returns a dad joke string from icanhazdadjoke.com",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "dad-called",
+  "version": "0.0.1",
+  "description": "Returns a dad joke string from icanhazdadjoke.com for Chatbots.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/dad-called"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
